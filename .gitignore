@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+data/Raw/portal_data_joined.csv
+data-carpentry.Rproj
